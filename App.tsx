@@ -63,7 +63,7 @@ const App: React.FC = () => {
         <div>
           <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-indigo-500 bg-clip-text text-transparent flex items-center gap-3">
             <Activity className="text-blue-500" />
-            CryptoQuant Monitor
+            Crypto Trading Monitor
           </h1>
           <p className="text-slate-400 mt-1 text-sm">Real-time behavior analytics & Multi-Factor Scores</p>
         </div>
